@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+	<name>
+		<lang name="default">External PHP File</lang>
+	</name>
+	<author>
+		<lang name="default">orthograf</lang>
+	</author>
+	<homepage>http://altocms.com</homepage>
+     	<version>1.0</version>
+	<requires>
+	        <alto>
+	            <version>1.0</version>
+	        </alto>
+	        <system>
+	            <php>5.3.0</php>
+	        </system>
+		
+	</requires>
+	<description>
+		<lang name="default">Выводит отдельной страницей внешний php файл</lang>
+	</description>
+
+</plugin>
